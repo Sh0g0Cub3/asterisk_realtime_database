@@ -54,6 +54,8 @@ HTTP による接続要求を送信しました、応答を待っています...
 
  src]#
 
+ src]# tar zxvf asterisk-16-current.tar.gz
+ 
  asterisk-16.20.0]# ./configure --with-jansson-bundled
 
  asterisk-16.20.0]# make menuselect
